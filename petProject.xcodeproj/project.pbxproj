@@ -14,6 +14,21 @@
 		17BAC3252C2E994800AA1857 /* petProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3242C2E994800AA1857 /* petProjectTests.swift */; };
 		17BAC32F2C2E994800AA1857 /* petProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC32E2C2E994800AA1857 /* petProjectUITests.swift */; };
 		17BAC3312C2E994800AA1857 /* petProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3302C2E994800AA1857 /* petProjectUITestsLaunchTests.swift */; };
+		17BAC3402C2E99C000AA1857 /* petTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC33F2C2E99C000AA1857 /* petTest.swift */; };
+		17BAC3432C2E9A9B00AA1857 /* Pet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3422C2E9A9B00AA1857 /* Pet.swift */; };
+		17BAC3462C2E9BDC00AA1857 /* IGenericService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3452C2E9BDC00AA1857 /* IGenericService.swift */; };
+		17BAC3482C2E9D8000AA1857 /* IPetService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3472C2E9D8000AA1857 /* IPetService.swift */; };
+		17BAC34A2C2E9DC800AA1857 /* PetService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3492C2E9DC800AA1857 /* PetService.swift */; };
+		17BAC34C2C2EAF8D00AA1857 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC34B2C2EAF8D00AA1857 /* Food.swift */; };
+		17BAC34F2C2EB24700AA1857 /* PetServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC34E2C2EB24700AA1857 /* PetServiceTest.swift */; };
+		17BAC3512C2EB4EC00AA1857 /* FoodServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3502C2EB4EC00AA1857 /* FoodServiceTest.swift */; };
+		17BAC3532C2EB69F00AA1857 /* IFoodService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3522C2EB69F00AA1857 /* IFoodService.swift */; };
+		17BAC3552C2EB71A00AA1857 /* FoodService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3542C2EB71A00AA1857 /* FoodService.swift */; };
+		17BAC3572C2EB8B900AA1857 /* FeedingLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3562C2EB8B900AA1857 /* FeedingLog.swift */; };
+		17BAC3592C2EB96900AA1857 /* FeedingLogServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BAC3582C2EB96900AA1857 /* FeedingLogServiceTest.swift */; };
+		17CA41822C3387B7003AC0FF /* IFeedingLogService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CA41812C3387B7003AC0FF /* IFeedingLogService.swift */; };
+		17CA41842C338827003AC0FF /* FeedingLogService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CA41832C338827003AC0FF /* FeedingLogService.swift */; };
+		17CA41862C33AA00003AC0FF /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CA41852C33AA00003AC0FF /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +59,21 @@
 		17BAC32A2C2E994800AA1857 /* petProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = petProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17BAC32E2C2E994800AA1857 /* petProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = petProjectUITests.swift; sourceTree = "<group>"; };
 		17BAC3302C2E994800AA1857 /* petProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = petProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		17BAC33F2C2E99C000AA1857 /* petTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = petTest.swift; sourceTree = "<group>"; };
+		17BAC3422C2E9A9B00AA1857 /* Pet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet.swift; sourceTree = "<group>"; };
+		17BAC3452C2E9BDC00AA1857 /* IGenericService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGenericService.swift; sourceTree = "<group>"; };
+		17BAC3472C2E9D8000AA1857 /* IPetService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPetService.swift; sourceTree = "<group>"; };
+		17BAC3492C2E9DC800AA1857 /* PetService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetService.swift; sourceTree = "<group>"; };
+		17BAC34B2C2EAF8D00AA1857 /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
+		17BAC34E2C2EB24700AA1857 /* PetServiceTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetServiceTest.swift; sourceTree = "<group>"; };
+		17BAC3502C2EB4EC00AA1857 /* FoodServiceTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodServiceTest.swift; sourceTree = "<group>"; };
+		17BAC3522C2EB69F00AA1857 /* IFoodService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFoodService.swift; sourceTree = "<group>"; };
+		17BAC3542C2EB71A00AA1857 /* FoodService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodService.swift; sourceTree = "<group>"; };
+		17BAC3562C2EB8B900AA1857 /* FeedingLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedingLog.swift; sourceTree = "<group>"; };
+		17BAC3582C2EB96900AA1857 /* FeedingLogServiceTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedingLogServiceTest.swift; sourceTree = "<group>"; };
+		17CA41812C3387B7003AC0FF /* IFeedingLogService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFeedingLogService.swift; sourceTree = "<group>"; };
+		17CA41832C338827003AC0FF /* FeedingLogService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedingLogService.swift; sourceTree = "<group>"; };
+		17CA41852C33AA00003AC0FF /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +124,8 @@
 		17BAC3122C2E994700AA1857 /* petProject */ = {
 			isa = PBXGroup;
 			children = (
+				17BAC3442C2E9BB400AA1857 /* service */,
+				17BAC3412C2E9A6D00AA1857 /* domain */,
 				17BAC3132C2E994700AA1857 /* petProjectApp.swift */,
 				17BAC3152C2E994700AA1857 /* ContentView.swift */,
 				17BAC3172C2E994800AA1857 /* Assets.xcassets */,
@@ -113,6 +145,8 @@
 		17BAC3232C2E994800AA1857 /* petProjectTests */ = {
 			isa = PBXGroup;
 			children = (
+				17BAC34D2C2EB00B00AA1857 /* service */,
+				17BAC33E2C2E999800AA1857 /* domain */,
 				17BAC3242C2E994800AA1857 /* petProjectTests.swift */,
 			);
 			path = petProjectTests;
@@ -125,6 +159,49 @@
 				17BAC3302C2E994800AA1857 /* petProjectUITestsLaunchTests.swift */,
 			);
 			path = petProjectUITests;
+			sourceTree = "<group>";
+		};
+		17BAC33E2C2E999800AA1857 /* domain */ = {
+			isa = PBXGroup;
+			children = (
+				17BAC33F2C2E99C000AA1857 /* petTest.swift */,
+			);
+			path = domain;
+			sourceTree = "<group>";
+		};
+		17BAC3412C2E9A6D00AA1857 /* domain */ = {
+			isa = PBXGroup;
+			children = (
+				17BAC3422C2E9A9B00AA1857 /* Pet.swift */,
+				17BAC34B2C2EAF8D00AA1857 /* Food.swift */,
+				17BAC3562C2EB8B900AA1857 /* FeedingLog.swift */,
+			);
+			path = domain;
+			sourceTree = "<group>";
+		};
+		17BAC3442C2E9BB400AA1857 /* service */ = {
+			isa = PBXGroup;
+			children = (
+				17BAC3452C2E9BDC00AA1857 /* IGenericService.swift */,
+				17BAC3472C2E9D8000AA1857 /* IPetService.swift */,
+				17BAC3522C2EB69F00AA1857 /* IFoodService.swift */,
+				17CA41812C3387B7003AC0FF /* IFeedingLogService.swift */,
+				17BAC3492C2E9DC800AA1857 /* PetService.swift */,
+				17BAC3542C2EB71A00AA1857 /* FoodService.swift */,
+				17CA41832C338827003AC0FF /* FeedingLogService.swift */,
+			);
+			path = service;
+			sourceTree = "<group>";
+		};
+		17BAC34D2C2EB00B00AA1857 /* service */ = {
+			isa = PBXGroup;
+			children = (
+				17BAC34E2C2EB24700AA1857 /* PetServiceTest.swift */,
+				17BAC3502C2EB4EC00AA1857 /* FoodServiceTest.swift */,
+				17BAC3582C2EB96900AA1857 /* FeedingLogServiceTest.swift */,
+				17CA41852C33AA00003AC0FF /* test.swift */,
+			);
+			path = service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +334,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17BAC34C2C2EAF8D00AA1857 /* Food.swift in Sources */,
+				17BAC3482C2E9D8000AA1857 /* IPetService.swift in Sources */,
+				17BAC3432C2E9A9B00AA1857 /* Pet.swift in Sources */,
 				17BAC3162C2E994700AA1857 /* ContentView.swift in Sources */,
+				17BAC3552C2EB71A00AA1857 /* FoodService.swift in Sources */,
+				17BAC34A2C2E9DC800AA1857 /* PetService.swift in Sources */,
 				17BAC3142C2E994700AA1857 /* petProjectApp.swift in Sources */,
+				17CA41842C338827003AC0FF /* FeedingLogService.swift in Sources */,
+				17BAC3462C2E9BDC00AA1857 /* IGenericService.swift in Sources */,
+				17CA41822C3387B7003AC0FF /* IFeedingLogService.swift in Sources */,
+				17BAC3532C2EB69F00AA1857 /* IFoodService.swift in Sources */,
+				17BAC3572C2EB8B900AA1857 /* FeedingLog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +353,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17BAC34F2C2EB24700AA1857 /* PetServiceTest.swift in Sources */,
+				17CA41862C33AA00003AC0FF /* test.swift in Sources */,
+				17BAC3592C2EB96900AA1857 /* FeedingLogServiceTest.swift in Sources */,
+				17BAC3512C2EB4EC00AA1857 /* FoodServiceTest.swift in Sources */,
 				17BAC3252C2E994800AA1857 /* petProjectTests.swift in Sources */,
+				17BAC3402C2E99C000AA1857 /* petTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
